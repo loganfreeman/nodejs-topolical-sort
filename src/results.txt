@@ -1,0 +1,16 @@
+
+[0m[0m
+[0m  Graph[0m
+[2K[0G  [32m  √[0m[90m should construct graph[0m
+[2K[0G  [32m  √[0m[90m should construct triangle from array[0m
+[2K[0G  [32m  √[0m[90m should build weighted graph from object[0m
+[2K[0G  [32m  √[0m[90m should create directed edges[0m
+[2K[0G  [32m  √[0m[90m should detect cycle[0m
+[2K[0G  [32m  √[0m[90m should detect cycle by topological sort[0m
+[2K[0G  [32m  √[0m[90m should topological sort[0m
+[2K[0G  [32m  √[0m[90m should sort by dependency[0m
+[2K[0G  [32m  √[0m[90m should be rejected[0m
+
+
+[92m [0m[32m 9 passing[0m[90m (12ms)[0m
+
