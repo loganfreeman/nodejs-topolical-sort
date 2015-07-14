@@ -3,6 +3,7 @@
 #### run test
 ```shell
 npm install
+cd src
 grunt test
 
 #### run main
